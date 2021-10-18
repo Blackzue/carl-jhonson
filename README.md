@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/6nR8tPu.jpeg" alt="paul" width="300" />
+<img src="https://i.imgur.com/yY03Ecx.jpg" alt="paul" width="300" />
 
 # PAUL WALKER
 
